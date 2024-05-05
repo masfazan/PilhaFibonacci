@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilhaFibonacci", "PilhaFibonacci\PilhaFibonacci.csproj", "{43EFC2C6-EBCC-4C7B-A852-0A940F53E17E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43EFC2C6-EBCC-4C7B-A852-0A940F53E17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EFC2C6-EBCC-4C7B-A852-0A940F53E17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EFC2C6-EBCC-4C7B-A852-0A940F53E17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EFC2C6-EBCC-4C7B-A852-0A940F53E17E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3659C961-0A11-48DA-A924-DCF83E32D58F}
+	EndGlobalSection
+EndGlobal
